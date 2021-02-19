@@ -1,3 +1,3 @@
-module github.com/41tair/go-faiss
+module github.com/ruslan-casafari/go-faiss
 
-go 1.12
+go 1.16
