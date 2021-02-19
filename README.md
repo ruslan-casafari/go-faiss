@@ -15,14 +15,14 @@ https://github.com/facebookresearch/faiss/blob/v1.6.3/c_api/INSTALL.md
 ### Download from github
 
 ```
-	git clone https://github.com/41tair/go-faiss
+	git clone https://github.com/ruslan-casafari/go-faiss
 	mv go-faiss/lib/libfaiss_c.so /usr/local/lib/libfaiss_c.go
 ```
 
 ## Use in go
 
 ```
-    import "github.com/41tair/go-faiss/faiss"
+    import "github.com/ruslan-casafari/go-faiss/faiss"
 ```
 ### Example
 
